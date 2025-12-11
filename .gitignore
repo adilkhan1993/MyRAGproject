@@ -1,0 +1,8 @@
+# Скрываем базу данных и кэш
+__pycache__/
+*.pyc
+data/chroma_db/
+.env
+.venv
+venv/
+.DS_Store
