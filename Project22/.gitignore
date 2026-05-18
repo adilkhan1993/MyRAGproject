@@ -1,0 +1,5 @@
+venv/
+.venv/
+__pycache__/
+fine_tuned_model/
+.env
